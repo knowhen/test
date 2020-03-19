@@ -6,7 +6,11 @@
 
     <groupId>org.when.test</groupId>
     <artifactId>test</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1</version>
+    <modules>
+        <module>eventbus-test</module>
+    </modules>
 
     <name>test</name>
     <url>http://www.example.com</url>
